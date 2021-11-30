@@ -2,7 +2,7 @@
 
 Website
 
-https://drsharice.github.io/Web-Design-Challenge/index.html
+https://drsharice.github.io/Web-Visualization/
 
 # Latitude - Latitude Analysis Dashboard with Attitude
 
